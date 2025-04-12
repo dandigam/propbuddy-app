@@ -1,0 +1,69 @@
+# Node modules
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+
+# macOS
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Android
+android/
+*.keystore
+
+# iOS
+ios/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+!*.xcworkspace/xcshareddata/
+*.xcworkspace/xcuserdata/
+
+# Bundle output
+*.jsbundle
+*.map
+
+# VSCode
+.vscode/
+
+# Env files
+.env
+.env.*
+
+# Expo Go cache
+*.expo
+
+# Metro cache
+.metro-cache/
+
+# Babel cache
+babel.config.js
+
+# Watchman
+.watchmanconfig
+
+# Jest
+coverage/
+jest/
+
+# Misc
+*.log
+tmp/
+temp/
